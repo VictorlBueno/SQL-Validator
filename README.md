@@ -13,6 +13,8 @@ Verifications:
 Codes must be saved in a UTF-8 text file.
 Average reading speed of 10,000 lines per 30 seconds.
 
+![image](https://github.com/VictorlBueno/SQLValidator/assets/110859187/33fe1861-599b-43d7-a1de-0ed690febe2c)
+
 # Language 👨‍💻
 <ul>
   <li>Java</li>
